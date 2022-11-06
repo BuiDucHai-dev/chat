@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_main"
+    android:padding="@dimen/dimen_8dp"
+    android:orientation="vertical"
+    tools:context=".home.ui.contacts.ContactFragment">
+
+    <TextView
+        android:drawableLeft="@drawable/ic_baseline_person_add_24"
+        android:layout_width="match_parent"
+        android:drawablePadding="@dimen/dimen_20dp"
+        android:paddingLeft="@dimen/dimen_12dp"
+        android:id="@+id/tv_find_friend"
+        android:gravity="center|left"
+        android:layout_height="50dp"
+        android:textColor="@color/white"
+        android:text="@string/find_friend" />
+
+    <TextView
+        android:drawableLeft="@drawable/ic_share"
+        android:layout_width="match_parent"
+        android:drawablePadding="@dimen/dimen_20dp"
+        android:paddingLeft="@dimen/dimen_12dp"
+        android:id="@+id/tv_invite_friend"
+        android:gravity="center|left"
+        android:layout_height="50dp"
+        android:textColor="@color/white"
+        android:text="@string/invite_friends" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sorted_by_name"
+        android:paddingTop="@dimen/dimen_8dp"
+        android:paddingBottom="@dimen/dimen_8dp"
+        android:textColor="@color/white"
+        android:id="@+id/tv_contacts_sort"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rcv_contact_list"/>
+
+</LinearLayout>

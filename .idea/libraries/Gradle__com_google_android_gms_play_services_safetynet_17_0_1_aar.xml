@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-safetynet:17.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cee824617cd7566b43401f56bc244eb/transformed/jetified-play-services-safetynet-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/45bbfc04345873b469e650760639286d/transformed/jetified-play-services-safetynet-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86417b13aba52352b309a63a04dd335c/transformed/jetified-play-services-safetynet-17.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/6afcd309b72b3e8b94c25f5542929e74/transformed/jetified-play-services-safetynet-17.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/fe15c0100b8b2d21445c950b4a216095/transformed/jetified-play-services-safetynet-17.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/786b358390ca30f357c8e1ea1d55c614/transformed/jetified-play-services-safetynet-17.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/786b358390ca30f357c8e1ea1d55c614/transformed/jetified-play-services-safetynet-17.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/786b358390ca30f357c8e1ea1d55c614/transformed/jetified-play-services-safetynet-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/786b358390ca30f357c8e1ea1d55c614/transformed/jetified-play-services-safetynet-17.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/786b358390ca30f357c8e1ea1d55c614/transformed/jetified-play-services-safetynet-17.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/786b358390ca30f357c8e1ea1d55c614/transformed/jetified-play-services-safetynet-17.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-safetynet/17.0.1/f95c1a7a505e9d4679a4de82b3825e53656c6ecf/play-services-safetynet-17.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:core:1.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a1641839111710a9b4b4350a42b3510d/transformed/jetified-core-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/efb48168ac58e8707e18a0117e351495/transformed/jetified-core-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/044c6d45a5baf46080490f2abd86b9f9/transformed/jetified-core-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be9aa33338a5f76d7a31292af70c74a8/transformed/jetified-core-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/df724021e420f493aa1ed5ccbcce7ffd/transformed/jetified-core-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/196821bef82808e055a1ea5dcb11786e/transformed/jetified-core-1.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/de9a6ffce761f26141f342a5906febc5/transformed/jetified-core-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/de9a6ffce761f26141f342a5906febc5/transformed/jetified-core-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/de9a6ffce761f26141f342a5906febc5/transformed/jetified-core-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de9a6ffce761f26141f342a5906febc5/transformed/jetified-core-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/de9a6ffce761f26141f342a5906febc5/transformed/jetified-core-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de9a6ffce761f26141f342a5906febc5/transformed/jetified-core-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.4.0/96b4d161def059d92989a352500d05d215c33d5e/core-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.4.0/2ba6b5cb5392cc99bdc6fb1f188c95497358fb62/core-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

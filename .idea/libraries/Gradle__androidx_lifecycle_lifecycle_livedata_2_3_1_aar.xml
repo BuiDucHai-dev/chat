@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.3.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/18dc8d0a6a892af220a47bbe54a56694/transformed/lifecycle-livedata-2.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/02baa023dceb8ee28d32fca1775045c2/transformed/lifecycle-livedata-2.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfdd54d85d3fa50aa0564d769344b78c/transformed/lifecycle-livedata-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/b8963d83cd519011ae2b88177f1a6e19/transformed/lifecycle-livedata-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/380ad6dfce259ed04f51c2c036c184f5/transformed/lifecycle-livedata-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/e4cb4a038c97a0ebbdba3b6a9ba7132d/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/e4cb4a038c97a0ebbdba3b6a9ba7132d/transformed/lifecycle-livedata-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/e4cb4a038c97a0ebbdba3b6a9ba7132d/transformed/lifecycle-livedata-2.3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e4cb4a038c97a0ebbdba3b6a9ba7132d/transformed/lifecycle-livedata-2.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e4cb4a038c97a0ebbdba3b6a9ba7132d/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e4cb4a038c97a0ebbdba3b6a9ba7132d/transformed/lifecycle-livedata-2.3.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.3.1/79c9b6bb8cb5d788988ae6a481f29c6692c3bdd2/lifecycle-livedata-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.stalk.home.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_new_group"
+        android:name="com.example.stalk.home.ui.newgroup.NewGroupFragment"
+        android:label="@string/menu_new_group"
+        tools:layout="@layout/fragment_new_group" >
+        <action
+            android:id="@+id/action_NewGroup_to_CreateNewGroup"
+            app:destination="@id/nav_create_new_group" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_create_new_group"
+        android:name="com.example.stalk.home.ui.newgroup.createnewgroup.CreateNewGroupFragment"
+        android:label="Create New Group"
+        tools:layout="@layout/fragment_create_new_group"/>
+
+    <fragment
+        android:id="@+id/nav_contacts"
+        android:name="com.example.stalk.home.ui.contacts.ContactFragment"
+        android:label="@string/menu_contacts"
+        tools:layout="@layout/fragment_contacts" >
+        <action
+            android:id="@+id/action_Contact_to_InviteFriend"
+            app:destination="@id/nav_invite_friends" />
+
+        <action
+            android:id="@+id/action_Contact_to_Find_Friend"
+            app:destination="@id/nav_find_friends" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_invite_friends"
+        android:name="com.example.stalk.home.ui.invite_friend.InviteFriendFragment"
+        android:label="@string/menu_invite_friend"
+        tools:layout="@layout/fragment_invite_friend" />
+
+    <fragment
+        android:id="@+id/nav_find_friends"
+        android:name="com.example.stalk.home.ui.find_friend.FindFriendFragment"
+        android:label="@string/menu_find_friend"
+        tools:layout="@layout/fragment_find_friend" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.stalk.home.ui.setting.SettingFragment"
+        android:label="@string/action_settings"
+        tools:layout="@layout/fragment_setting" />
+</navigation>

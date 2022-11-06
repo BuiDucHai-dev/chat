@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/LoginFragment">
+
+    <fragment
+        android:id="@+id/LoginFragment"
+        android:name="com.example.stalk.login.login.LoginFragment"
+        android:label="@string/login_fragment_label"
+        tools:layout="@layout/fragment_login">
+
+        <action
+            android:id="@+id/action_LoginFragment_to_VerificationFragment"
+            app:destination="@id/VerificationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/VerificationFragment"
+        android:name="com.example.stalk.login.verification.VerificationLoginFragment"
+        android:label="@string/verification_login_fragment_label"
+        tools:layout="@layout/fragment_verification_login">
+
+        <action
+            android:id="@+id/action_VerificationFragment_to_AccountInitialFragment"
+            app:destination="@id/AccountInitialFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/AccountInitialFragment"
+        android:name="com.example.stalk.login.account_initial.AccountInitialFragment"
+        android:label="@string/account_initial_fragment_label"
+        tools:layout="@layout/fragment_account_initial">
+
+        <!--        <action-->
+        <!--            android:id="@+id/action_SecondFragment_to_FirstFragment"-->
+        <!--            app:destination="@id/LoginFragment" />-->
+    </fragment>
+</navigation>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: co.csadev:kwikpicker:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/7b0ea5fd4e634dad034e320f2be9c16b/transformed/jetified-kwikpicker-2.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/7b0ea5fd4e634dad034e320f2be9c16b/transformed/jetified-kwikpicker-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/7b0ea5fd4e634dad034e320f2be9c16b/transformed/jetified-kwikpicker-2.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7b0ea5fd4e634dad034e320f2be9c16b/transformed/jetified-kwikpicker-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7b0ea5fd4e634dad034e320f2be9c16b/transformed/jetified-kwikpicker-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7b0ea5fd4e634dad034e320f2be9c16b/transformed/jetified-kwikpicker-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/modules-2/files-2.1/co.csadev/kwikpicker/2.0.0/af8e3777480c9e222caff127f05048279e734dc7/kwikpicker-2.0.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.csadev/kwikpicker/2.0.0/af8e3777480c9e222caff127f05048279e734dc7/kwikpicker-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/modules-2/files-2.1/co.csadev/kwikpicker/2.0.0/46af7aabfbf3bd5acce996dff36cee30fea1ffb3/kwikpicker-2.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.csadev/kwikpicker/2.0.0/46af7aabfbf3bd5acce996dff36cee30fea1ffb3/kwikpicker-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

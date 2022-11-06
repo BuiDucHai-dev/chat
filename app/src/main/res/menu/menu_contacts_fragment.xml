@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_contacts_search"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/action_search"
+        android:maxWidth="10000dp"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/action_sort_alpha"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_sort_by_alpha_24"
+        android:title="@string/action_sort_by_alpha"
+        app:showAsAction="ifRoom"/>
+</menu>

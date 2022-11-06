@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-recaptcha:16.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f112075116e576ac100244e83df3f54/transformed/jetified-play-services-recaptcha-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9f2fc636cfb812d7415b59cd3a58ec5/transformed/jetified-play-services-recaptcha-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bf5d1da6a9c868a64ae6e55f4c806241/transformed/jetified-play-services-recaptcha-16.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/ee9e44fe0e738cd92390253293df0283/transformed/jetified-play-services-recaptcha-16.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/a9aa204a80f817632ab990fa39b5e69b/transformed/jetified-play-services-recaptcha-16.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/270909e60659ddbb0d3a651287f6630f/transformed/jetified-play-services-recaptcha-16.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/270909e60659ddbb0d3a651287f6630f/transformed/jetified-play-services-recaptcha-16.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/270909e60659ddbb0d3a651287f6630f/transformed/jetified-play-services-recaptcha-16.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/270909e60659ddbb0d3a651287f6630f/transformed/jetified-play-services-recaptcha-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/270909e60659ddbb0d3a651287f6630f/transformed/jetified-play-services-recaptcha-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/270909e60659ddbb0d3a651287f6630f/transformed/jetified-play-services-recaptcha-16.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-recaptcha/16.0.1/4b1ce9440e9436d56264ecc1a84f8e812d33115/play-services-recaptcha-16.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

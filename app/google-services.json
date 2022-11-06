@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692271286620",
+    "firebase_url": "https://stalk-427ad-default-rtdb.firebaseio.com",
+    "project_id": "stalk-427ad",
+    "storage_bucket": "stalk-427ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692271286620:android:a84a414332ed7aff93d999",
+        "android_client_info": {
+          "package_name": "com.example.stalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692271286620-7hn8h7hq7rrcp3u9fbaaab97tepve1cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stalk",
+            "certificate_hash": "df8b0ca8a1e5f1a59e0a1e407bca56891d776662"
+          }
+        },
+        {
+          "client_id": "692271286620-8scd0hf30avk4qkqtumkd3cba1s3dc28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAwc5WR0BxUUlZrTvB1xSCdpJX1LijP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692271286620-8scd0hf30avk4qkqtumkd3cba1s3dc28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/background_main"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".invite_friend.InviteFriendActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:paddingStart="@dimen/dimen_8dp"
+        android:paddingTop="@dimen/dimen_16dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/rv_pick_user_list"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="horizontal"
+        tools:listitem="@layout/item_contact_only_avatar"
+        tools:ignore="RtlSymmetry" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_list_phone_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rv_pick_user_list"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/item_phone_contact">
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/tv_invite"
+        android:id="@+id/tv_no_phone"
+        android:text="@string/no_phone_contact"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:visibility="gone"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/tv_invite"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#2AB813"
+        android:gravity="center"
+        android:text="@string/invite_to_stalk"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+</RelativeLayout>

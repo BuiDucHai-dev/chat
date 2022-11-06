@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_main"
+    android:orientation="vertical"
+    tools:context=".login.LoginActivity">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginTop="@dimen/dimen_8dp"
+        android:paddingTop="@dimen/dimen_20dp"
+        android:paddingLeft="@dimen/dimen_8dp"
+        android:paddingRight="@dimen/dimen_8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="@dimen/avatar"
+            android:padding="@dimen/dimen_4dp"
+            android:layout_height="@dimen/avatar"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_baseline_person_24"
+            android:id="@+id/iv_avatar"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/et_first_name_required"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/fist_name_required"
+                android:minHeight="48dp" />
+
+            <EditText
+                android:id="@+id/et_last_name_required"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/last_name_required"
+                android:minHeight="48dp" />
+        </LinearLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <Button
+        style="@style/Widget.ButtonRequest"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_create_detail_acc"
+        android:enabled="false"
+        android:textAllCaps="false"
+        android:text="Go to STalk"/>
+
+    <ProgressBar
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/prb_load"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:layout_marginTop="50dp"/>
+
+</LinearLayout>

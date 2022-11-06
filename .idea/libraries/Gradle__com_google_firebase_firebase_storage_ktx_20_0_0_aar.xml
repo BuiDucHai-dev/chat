@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage-ktx:20.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a46d8867a2218a4f6d71e09778d1275f/transformed/jetified-firebase-storage-ktx-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a1a2fe5d7aed6fdac96157c3f7d35f3/transformed/jetified-firebase-storage-ktx-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd6680a42d6fc9c70676d1f7ac035760/transformed/jetified-firebase-storage-ktx-20.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/ce8193004fca4f4609482dd3050189d1/transformed/jetified-firebase-storage-ktx-20.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/28bd82154b75076975f47d3cd33f7b0e/transformed/jetified-firebase-storage-ktx-20.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/dd4f36457ca786686079071ac7870270/transformed/jetified-firebase-storage-ktx-20.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/dd4f36457ca786686079071ac7870270/transformed/jetified-firebase-storage-ktx-20.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/transforms-3/dd4f36457ca786686079071ac7870270/transformed/jetified-firebase-storage-ktx-20.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dd4f36457ca786686079071ac7870270/transformed/jetified-firebase-storage-ktx-20.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dd4f36457ca786686079071ac7870270/transformed/jetified-firebase-storage-ktx-20.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dd4f36457ca786686079071ac7870270/transformed/jetified-firebase-storage-ktx-20.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/modules-2/files-2.1/com.google.firebase/firebase-storage-ktx/20.0.0/efb33ed8df8c7bb186d3a544e6837cb1e6f66b17/firebase-storage-ktx-20.0.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-storage-ktx/20.0.0/efb33ed8df8c7bb186d3a544e6837cb1e6f66b17/firebase-storage-ktx-20.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Git/STalk/.gradle/7.0.2/caches/modules-2/files-2.1/com.google.firebase/firebase-storage-ktx/20.0.0/71fe7ef6676ccadec89ee17089b35c24466830a4/firebase-storage-ktx-20.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-storage-ktx/20.0.0/71fe7ef6676ccadec89ee17089b35c24466830a4/firebase-storage-ktx-20.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
